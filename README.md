@@ -10,9 +10,13 @@
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
 ## Contest scope
-This contest is focused on Concentrated Liquidity Pool of Trident. The snapshot for this contest scope is [this commit](https://github.com/sushiswap/trident/tree/c405f3402a1ed336244053f8186742d2da5975e9/contracts/pool/concentrated).
+This contest is focused on Concentrated Liquidity Pool of Trident. 
 
-The contracts in scope can be found in the https://github.com/sushiswap/trident/tree/concentrated/contracts/pool/concentrated and https://github.com/sushiswap/trident/tree/concentrated/contracts/libraries/concentratedPool folders. 
+The commit snapshot and scope for this contest includes these two folders:
+
+- [contracts/concentrated](https://github.com/sushiswap/trident/tree/c405f3402a1ed336244053f8186742d2da5975e9/contracts/pool/concentrated).
+- [contracts/libraries/concentratedPool](https://github.com/sushiswap/trident/tree/c405f3402a1ed336244053f8186742d2da5975e9/contracts/libraries/concentratedPool)
+
 Total lines of code are approximately 2k.
 
 ## Important note
