@@ -18,13 +18,13 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 
 Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
-- [ ] Name of each contract and:
+- [X] Name of each contract and:
   - [ ] lines of code in each
   - [ ] external contracts called in each
   - [ ] libraries used in each
 - [ ] Describe any novel or unique curve logic or mathematical models implemented in the contracts
-- [ ] Does the token conform to the ERC-20 standard? In what specific ways does it differ?
-- [ ] Describe anything else that adds any special logic that makes your approach unique
+- [X] Does the token conform to the ERC-20 standard? In what specific ways does it differ?
+- [X] Describe anything else that adds any special logic that makes your approach unique
 - [ ] Identify any areas of specific concern in reviewing the code
 - [ ] Add all of the code to this repo that you want reviewed
 - [ ] Create a PR to this repo with the above changes.
@@ -80,3 +80,5 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
+
+This contest is focused on Concentrated Liquidity Pool of Trident. The contracts in scope can be found in https://github.com/sushiswap/trident/tree/concentrated/contracts/pool/concentrated and https://github.com/sushiswap/trident/tree/concentrated/contracts/libraries/concentratedPool folders. Total lines of code are about 2k.
