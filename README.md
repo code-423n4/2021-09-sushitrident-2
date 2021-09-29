@@ -14,5 +14,8 @@ This contest is focused on Concentrated Liquidity Pool of Trident.
 The contracts in scope can be found in the https://github.com/sushiswap/trident/tree/concentrated/contracts/pool/concentrated and https://github.com/sushiswap/trident/tree/concentrated/contracts/libraries/concentratedPool folders. 
 Total lines of code are approximately 2k.
 
+## Important note
+As the code to be reviewed is in the production repo, please be sure to use the exact URLs above; they contain the commit hash that will ensure you are reviewing the code that is in scope for this contest.
+
 ## Documentation 
 Documentation can be found here: https://github.com/sushiswap/trident/blob/concentrated/contracts/pool/concentrated/README.md
