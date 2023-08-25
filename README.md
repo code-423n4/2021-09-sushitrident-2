@@ -7,8 +7,6 @@
 - Starts September 30, 2021 at 00:00 UTC
 - Ends October 6, 2021 at 23:59 UTC
 
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
 ## Contest scope
 This contest is focused on Concentrated Liquidity Pool of Trident. 
 
